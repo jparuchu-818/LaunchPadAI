@@ -1,13 +1,6 @@
 🚀 LaunchPad AI
 An AI-powered tool that takes your startup idea and instantly generates a complete business plan, pitch deck, and a functional, multi-page website prototype. Go from concept to clickable demo in seconds.
 
-(Note: You will need to add a screenshot of your app to your repository for the image to display. A good path would be /public/screenshot.png)
-
-✨ Live Demo
-Check out the live application here: https://launchpadai.vercel.app/
-
-(Replace the URL above with your actual Vercel deployment URL)
-
 📋 Features
 AI-Powered Content: Leverages a powerful language model to generate relevant and coherent business assets.
 
@@ -73,15 +66,6 @@ Create a new file named .env.local in the root of your project
 npm run dev
 
 Open http://localhost:3000 with your browser to see the result.
-
-🌐 Deployment
-This application is designed for easy deployment on Vercel.
-
-Push your code to a GitHub repository.
-
-Import the repository into Vercel.
-
-Deploy! Vercel will automatically build and deploy your application.
 
 📄 License
 This project is licensed under the MIT License. See the LICENSE file for details.
